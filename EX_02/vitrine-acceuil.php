@@ -6,9 +6,12 @@
     <meta charset="utf-8">
 </head>
 
+
+
 <body>
     <header>
        <?php
+       $navigation="Accueil";
        include ("header.php");
        ?>
     </header>

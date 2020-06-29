@@ -10,6 +10,7 @@
 <body>
     <header>
     <?php
+    $navigation="Programme";
        include ("header.php");
        ?>
     </header>
